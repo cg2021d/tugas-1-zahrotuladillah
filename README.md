@@ -4,6 +4,9 @@ NRP : 05111940000139 <br />
 Kelas : Grafika Komputer - D <br /> 
 Keterangan Gambar : Dandang <br /> 
 
+## Hasil
+![dandang](https://user-images.githubusercontent.com/72771774/136825375-26417a2f-05ea-4ad0-85b0-839fd0770b08.gif)
+
 ## Depan Atas
 <img src= https://user-images.githubusercontent.com/72771774/134185828-70e0feab-9006-413b-b325-791789705d24.jpg width="700"> <br /> 
 ## Belakang Atas
